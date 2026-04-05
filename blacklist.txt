@@ -1,3 +1,0 @@
-return {
-    7697153360, -- Disgrace of an exploiter
-}
