@@ -1,0 +1,4 @@
+local BLACKLIST = {
+    7697153360, -- Disgrace of an exploiter
+    101215590, -- Test
+}
